@@ -1,5 +1,8 @@
 # github-user-activity 
- Use GitHub API to fetch user activity and display it in the terminal.
+
+https://roadmap.sh/projects/github-user-activity
+
+Use GitHub API to fetch user activity and display it in the terminal.
 
 
 The fetch_github_activity function uses Ruby's Net::HTTP to make a request to the GitHub API.
@@ -12,6 +15,6 @@ We check for the correct number of command-line arguments and handle errors appr
 
 To use this script:
 
-Save it as github_activity.rb.
-Make it executable: chmod +x github_activity.rb
-Run it from the command line: ./github_activity.rb <username>
+Save it as github-activity.rb.
+Make it executable: chmod +x github-activity.rb
+Run it from the command line: ./github-activity.rb <username>
