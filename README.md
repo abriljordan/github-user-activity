@@ -2,6 +2,8 @@
 
 https://roadmap.sh/projects/github-user-activity
 
+This project has been built with the assistance of AI.
+
 Use GitHub API to fetch user activity and display it in the terminal.
 
 
